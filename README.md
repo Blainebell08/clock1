@@ -1,1 +1,1 @@
-# counter1
+# clock1
